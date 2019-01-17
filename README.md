@@ -21,3 +21,7 @@ git clone https://github.com/chingwei/vim.git ~/.vim
 ```shell
 sh ~/.vim/install.sh
 ```
+
+------------
+
+plugin：https://vimawesome.com
