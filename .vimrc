@@ -5,7 +5,6 @@
 call plug#begin('~/.vim/plugged')
 
 " Plgins
-Plug 'chriskempson/base16-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
@@ -177,13 +176,3 @@ let g:webdevicons_enable_nerdtree = 0
 " =================
 "  custom
 " =================
-
-" =================
-"  base16 theme
-" =================
-if filereadable(expand("~/.vimrc_background"))
-  let base16colorspace = 256
-  let g:airline_theme = 'base16'
-
-  source ~/.vimrc_background
-endif
