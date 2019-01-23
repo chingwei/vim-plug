@@ -128,7 +128,7 @@ set wildignore+=tmp/**
 " theme
 filetype plugin indent on
 syntax on
-colorscheme tomorrow-night
+colorscheme Tomorrow-Night
 
 " remove tailing whitespace
 autocmd BufWritePre * :%s/\s\+$//e
