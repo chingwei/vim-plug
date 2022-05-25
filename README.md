@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://chingwei.synology.me/img/vim-snapshot.png" alt="VIM">
-</p>
-
 參考  https://github.com/storyn26383/sasaya-vim
 再刪掉我沒用到的部份。
 
